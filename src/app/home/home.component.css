@@ -1,0 +1,98 @@
+
+
+.height {
+    height: 100vh
+}
+
+.search {
+    position: relative;
+    font-size: small;
+    box-shadow: 0 0 40px rgba(51, 51, 51, .1)
+}
+
+.search input {
+    height: 60px;
+    text-indent: 25px;
+    border: 2px solid #d6d4d4
+}
+
+.search input:focus {
+    box-shadow: none;
+    border: 2px solid rgb(0, 119, 255)
+}
+
+.search .fa-search {
+    position: absolute;
+    top: 20px;
+    left: 16px
+}
+
+.search button {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    height: 50px;
+    width: 110px;
+    font-size: small;
+    background: deepskyblue;
+}
+
+
+.form-group{
+    width:auto;
+    font-size: small;
+    margin: 18px 0px 0px 190px;
+
+}
+.search{
+   width:600px;
+   background-color: deepskyblue;
+}
+.btn {
+    margin: 0px -184px;
+}
+.searching{
+    padding:0px 140px;
+    font-size: small;
+}
+
+.btn1{
+    background-color: deepskyblue;
+}
+.navbar{
+padding: -175px 0px 170px 341px;
+}
+.demoapp{
+    margin-left: -690px;
+    color: #fff;
+}
+
+/* //////////////////////////////////////// */
+.about .content h2 {
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 36px;
+    margin-bottom: 7px;
+    text-transform: uppercase;
+    text-align: center;
+}
+.about .content h3 {
+    font-weight: 600;
+    line-height: 32px;
+    font-size: 24px;
+    text-align: center;
+}
+
+.card-registration .select-input.form-control[readonly]:not([disabled]) {
+    font-size: 1rem;
+    line-height: 2.15;
+    padding-left: .75em;
+    padding-right: .75em;
+    }
+    .card-registration .select-arrow {
+    top: 13px;
+    }
+
+    
+
+   
